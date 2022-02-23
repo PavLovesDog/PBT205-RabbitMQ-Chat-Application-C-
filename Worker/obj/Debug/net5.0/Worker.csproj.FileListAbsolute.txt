@@ -1,0 +1,17 @@
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\Worker\bin\Debug\net5.0\Worker.exe
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\Worker\bin\Debug\net5.0\Worker.deps.json
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\Worker\bin\Debug\net5.0\Worker.runtimeconfig.json
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\Worker\bin\Debug\net5.0\Worker.runtimeconfig.dev.json
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\Worker\bin\Debug\net5.0\Worker.dll
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\Worker\bin\Debug\net5.0\ref\Worker.dll
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\Worker\bin\Debug\net5.0\Worker.pdb
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\Worker\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\Worker\obj\Debug\net5.0\Worker.csproj.AssemblyReference.cache
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\Worker\obj\Debug\net5.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\Worker\obj\Debug\net5.0\Worker.AssemblyInfoInputs.cache
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\Worker\obj\Debug\net5.0\Worker.AssemblyInfo.cs
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\Worker\obj\Debug\net5.0\Worker.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\Worker\obj\Debug\net5.0\Worker.dll
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\Worker\obj\Debug\net5.0\ref\Worker.dll
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\Worker\obj\Debug\net5.0\Worker.pdb
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\Worker\obj\Debug\net5.0\Worker.genruntimeconfig.cache

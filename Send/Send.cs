@@ -13,22 +13,24 @@ class Send
         {
             // Create channel for API
             channel.QueueDeclare(queue: "hello",
-                                        durable: false,
-                                        exclusive: false,
-                                        autoDelete: false,
-                                        arguments: null);
+                                 durable: true,
+                                 exclusive: false,
+                                 autoDelete: false,
+                                 arguments: null);
                                        
             
-            string message = "...Hello Charlie!"; // Message to "send"/ Add to queue
+            // set up to allow arbitrary messages to be sent from the command line
+            string message = "Hello Charles!"; // Message here
             var body = Encoding.UTF8.GetBytes(message);
 
-            // declare a queue to send to, then publish a message to the queue
-            channel.BasicPublish(exchange: "",
-                                            routingKey: "hello",
-                                            basicProperties: null,
-                                            body: body);
-            Console.WriteLine(" Press [enter] to exit.");
-            Console.ReadLine();
+            channel.BasicPublish(exchange: "", 
+                                 routingKey: "hello", 
+                                 basicProperties: null, 
+                                 body: body);
+            Console.WriteLine(" [x] Sent {0}", message);
         }
+
+        Console.WriteLine(" Press [enter] to exit.");
+        Console.ReadLine();
     }
 }

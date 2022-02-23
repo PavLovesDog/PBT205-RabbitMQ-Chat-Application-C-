@@ -1,0 +1,17 @@
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\NewTask\obj\Debug\net5.0\NewTask.csproj.AssemblyReference.cache
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\NewTask\obj\Debug\net5.0\NewTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\NewTask\obj\Debug\net5.0\NewTask.AssemblyInfoInputs.cache
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\NewTask\obj\Debug\net5.0\NewTask.AssemblyInfo.cs
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\NewTask\obj\Debug\net5.0\NewTask.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\NewTask\bin\Debug\net5.0\NewTask.exe
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\NewTask\bin\Debug\net5.0\NewTask.deps.json
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\NewTask\bin\Debug\net5.0\NewTask.runtimeconfig.json
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\NewTask\bin\Debug\net5.0\NewTask.runtimeconfig.dev.json
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\NewTask\bin\Debug\net5.0\NewTask.dll
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\NewTask\bin\Debug\net5.0\ref\NewTask.dll
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\NewTask\bin\Debug\net5.0\NewTask.pdb
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\NewTask\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\NewTask\obj\Debug\net5.0\NewTask.dll
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\NewTask\obj\Debug\net5.0\ref\NewTask.dll
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\NewTask\obj\Debug\net5.0\NewTask.pdb
+C:\Users\charl\Desktop\Git\PBT205-RabbitMQ-Chat-Application\NewTask\obj\Debug\net5.0\NewTask.genruntimeconfig.cache
